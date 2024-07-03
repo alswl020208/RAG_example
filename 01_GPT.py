@@ -17,7 +17,3 @@ response = client.chat.completions.create(
 
 # 응답 출력
 print(response.choices[0].message.content.strip())
-
-# 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
-# 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
-# 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
